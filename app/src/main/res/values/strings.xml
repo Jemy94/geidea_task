@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Geidea App</string>
+    <string name="name_label">Name:</string>
+    <string name="email">Email:</string>
+    <string name="id">ID:</string>
+    <string name="no_data_text">There are no users</string>
+</resources>
